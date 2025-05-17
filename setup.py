@@ -1,6 +1,6 @@
 from setuptools import setup
 
-APP = ['main_v9.py']
+APP = ['main_vfinal.py']
 DATA_FILES = []
 OPTIONS = {
     'argv_emulation': True,
