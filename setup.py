@@ -4,7 +4,8 @@ APP = ['main_vfinal.py']
 DATA_FILES = []
 OPTIONS = {
     'argv_emulation': True,
-    'packages': ['openpyxl', 'pandas'],
+    'packages': ['pandas', 'openpyxl'],
+    'includes': ['pandas', 'openpyxl', 'tkinter'],
 }
 
 setup(
